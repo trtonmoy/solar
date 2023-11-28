@@ -1,0 +1,10 @@
+				@font-face {
+					font-family: 'future-earth';
+					src: url('/wp-content/uploads/useanyfont/8677future-earth.woff2') format('woff2'),
+						url('/wp-content/uploads/useanyfont/8677future-earth.woff') format('woff');
+					  font-display: auto;
+				}
+
+				.future-earth{font-family: 'future-earth' !important;}
+
+		
